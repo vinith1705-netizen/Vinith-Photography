@@ -1,0 +1,6 @@
+{
+  "name": "Magizini Photography",
+  "description": "Capture your special day with Magizini Photography. Explore wedding photography, candid moments, couple portraits, and cinematic wedding memories in Bhavani and Kumarapalayam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
